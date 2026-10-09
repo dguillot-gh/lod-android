@@ -10,7 +10,7 @@ the full how-to. Engine: [psxrecomp-android](https://github.com/dguillot-gh/psxr
 (mstan/psxrecomp + our Android layer; PolyForm Noncommercial: personal, non-commercial use only).
 
 ## Status
-NOT WORKING YET: same data-as-code problem as GT2. 4 discs. Set aside.
+Code generation fixed (2026-10-08: 11 MB of C, was 1.45 GB). Not built yet. 4 discs.
 
 ## The disc you need
 - Serial **SCUS-94491**, 4 disc(s), as `.cue` + `.bin` (a raw rip of your own copy).
